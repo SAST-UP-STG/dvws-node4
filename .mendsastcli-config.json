@@ -1,0 +1,13 @@
+{
+  "engines": [],
+  "template": "",
+  "exclusions": [],
+  "timeouts": {
+    "defaultTimeout": 60,
+    "maxTimeout": 120
+  },
+  "maxFileSize": 1024,
+  "javaEngineGeneration": 3,
+  "jsEngineGeneration": 3,
+  "csharpEngineGeneration": 3
+}
